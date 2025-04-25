@@ -46,6 +46,12 @@ Este kit foi projetado para acelerar o desenvolvimento de projetos multi tenancy
 
 ## Instalação
 
+#### Larabel new app
+
+```bash
+laravel new myapp --using=felipearnold/filament-multi-tenancy-start-kit
+```
+
 #### Composer
 
 ```bash
